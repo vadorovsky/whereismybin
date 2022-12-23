@@ -1,0 +1,10 @@
+[package]
+name = "whereismybin"
+version = "0.0.1"
+description = "Locates installed executable in PATH."
+keywords = ["linux", "where", "path", "binary"]
+license = "Apache-2.0"
+authors = ["Michal Rostecki <vadorovsky@gmail.com>"]
+repository = "https://github.com/vadorovsky/whereismybin"
+readme = "README.md"
+edition = "2021"
